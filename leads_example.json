@@ -1,0 +1,141 @@
+[
+  {
+    "url": "https://reddit.com/r/algotrading/comments/example1",
+    "type": "post",
+    "subreddit": "r/algotrading",
+    "title": "Looking for AI-powered chart analysis tools - any recommendations?",
+    "author": "u/trader_mike",
+    "created_utc": "2025-10-22T14:30:00",
+    "upvotes": 15,
+    "matched_keywords": [
+      "AI",
+      "chart analysis",
+      "tool",
+      "recommendations"
+    ],
+    "intent_label": "Tool-seeking",
+    "relevance_score": 85,
+    "fit_reasons": [
+      "Strong tool-seeking intent signal",
+      "Matched 8 relevant keywords",
+      "Posted 2 days ago"
+    ],
+    "risk_flags": [],
+    "reply_drafts": [
+      {
+        "variant": "A",
+        "reply_text": "Start by defining your edge: timeframe, markets, and setup type. Map key S/R levels, confirm with momentum indicators like RSI or MACD, and always set an invalidation point. If you want a quick AI breakdown of your chart, you can try TradingWizard.ai's Chart Analyzer—just upload a screenshot and it gives you a structured setup. (Disclosure: I help build TradingWizard.ai)"
+      },
+      {
+        "variant": "B",
+        "reply_text": "Build a simple checklist first: identify trend, mark zones, wait for confirmation, size position, set stops. Keep it mechanical so emotions don't override your process. We built TradingWizard.ai for exactly this—AI-powered chart analysis, algo bots, and daily market scans. Free to try, no card needed."
+      }
+    ],
+    "reply_notes": "Natural entry point with tool-seeking context. Link included as value-add.",
+    "include_link": true
+  },
+  {
+    "url": "https://reddit.com/r/daytrading/comments/example2",
+    "type": "post",
+    "subreddit": "r/daytrading",
+    "title": "How do you guys analyze charts quickly?",
+    "author": "u/daytrader_sarah",
+    "created_utc": "2025-10-21T09:15:00",
+    "upvotes": 8,
+    "matched_keywords": [
+      "analyze",
+      "charts",
+      "how to"
+    ],
+    "intent_label": "How-to",
+    "relevance_score": 72,
+    "fit_reasons": [
+      "Strong how-to intent signal",
+      "Matched 5 relevant keywords",
+      "Posted 3 days ago"
+    ],
+    "risk_flags": [],
+    "reply_drafts": [
+      {
+        "variant": "A",
+        "reply_text": "Break it into steps: 1) Define what you're analyzing (trend, breakout, reversal), 2) Overlay your key levels, 3) Add 1-2 confirmation indicators, 4) Document your setup rules. If you want a quick AI breakdown of your chart, you can try TradingWizard.ai's Chart Analyzer—just upload a screenshot and it gives you a structured setup."
+      },
+      {
+        "variant": "B",
+        "reply_text": "Start simple: use price action + volume first, then add one indicator at a time. Most profitable setups don't need 10 indicators cluttering the chart. We built TradingWizard.ai for exactly this—AI-powered chart analysis, algo bots, and daily market scans. Free to try, no card needed."
+      }
+    ],
+    "reply_notes": "Natural entry point with how-to context. Link included as value-add.",
+    "include_link": true
+  },
+  {
+    "url": "https://reddit.com/r/wallstreetbets/comments/example3",
+    "type": "post",
+    "subreddit": "r/wallstreetbets",
+    "title": "Getting whipsawed on every trade - help!",
+    "author": "u/frustrated_trader",
+    "created_utc": "2025-10-23T16:45:00",
+    "upvotes": 23,
+    "matched_keywords": [
+      "trade",
+      "help"
+    ],
+    "intent_label": "Problem-solving",
+    "relevance_score": 68,
+    "fit_reasons": [
+      "Strong problem-solving intent signal",
+      "Matched 3 relevant keywords",
+      "Posted 1 days ago"
+    ],
+    "risk_flags": [
+      "self-promo restricted"
+    ],
+    "reply_drafts": [
+      {
+        "variant": "A",
+        "reply_text": "If you're getting whipsawed, try adding an ATR filter—only trade when volatility exceeds your threshold. Also, check if you're trading during choppy market hours. Tools that automate chart reading and setup identification can help speed this up significantly."
+      },
+      {
+        "variant": "B",
+        "reply_text": "Common issue: too many indicators giving conflicting signals. Strip it down to price action, volume, and one momentum indicator. Keep your edge simple and repeatable. There are platforms now that use AI to handle chart analysis and generate trade setups if you want to explore that route."
+      }
+    ],
+    "reply_notes": "Natural entry point with problem-solving context. No link due to sub rules; value-only approach.",
+    "include_link": false
+  },
+  {
+    "url": "https://reddit.com/r/forex/comments/example4",
+    "type": "post",
+    "subreddit": "r/forex",
+    "title": "Best backtesting platform for forex strategies?",
+    "author": "u/forex_newbie",
+    "created_utc": "2025-10-20T11:20:00",
+    "upvotes": 12,
+    "matched_keywords": [
+      "backtesting",
+      "platform",
+      "strategies",
+      "best"
+    ],
+    "intent_label": "Tool-seeking",
+    "relevance_score": 78,
+    "fit_reasons": [
+      "Strong tool-seeking intent signal",
+      "Matched 6 relevant keywords",
+      "Posted 4 days ago"
+    ],
+    "risk_flags": [],
+    "reply_drafts": [
+      {
+        "variant": "A",
+        "reply_text": "Start by defining your edge: timeframe, markets, and setup type. Map key S/R levels, confirm with momentum indicators like RSI or MACD, and always set an invalidation point. I work on TradingWizard.ai where we automate a lot of this (chart analysis, signals, backtests). Happy to point you there if you want the AI to handle the heavy lifting."
+      },
+      {
+        "variant": "B",
+        "reply_text": "Build a simple checklist first: identify trend, mark zones, wait for confirmation, size position, set stops. Keep it mechanical so emotions don't override your process. We built TradingWizard.ai for exactly this—AI-powered chart analysis, algo bots, and daily market scans. Free to try, no card needed."
+      }
+    ],
+    "reply_notes": "Natural entry point with tool-seeking context. Link included as value-add.",
+    "include_link": true
+  }
+]

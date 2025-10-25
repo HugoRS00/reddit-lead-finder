@@ -1,0 +1,32 @@
+{
+  "keywords_core": [
+    "AI trading",
+    "chart analyzer",
+    "technical analysis tool",
+    "algo bot",
+    "trading signals",
+    "backtest",
+    "market scan",
+    "trade setup",
+    "TradingView alternative",
+    "automated trading"
+  ],
+  "allowlist_subs": [],
+  "blocklist_subs": [
+    "politics",
+    "worldnews",
+    "memes",
+    "funny"
+  ],
+  "date_range_days": 7,
+  "languages": ["en", "sv"],
+  "min_karma": 10,
+  "min_upvotes": 3,
+  "relevance_threshold": 60,
+  "max_results": 25,
+  "rate_limits": {
+    "max_replies_per_thread": 1,
+    "max_replies_per_subreddit_per_day": 3,
+    "cooldown_hours_per_author": 48
+  }
+}
